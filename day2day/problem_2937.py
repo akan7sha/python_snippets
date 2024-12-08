@@ -1,10 +1,8 @@
 #You are given three strings: s1, s2, and s3.
 #In one operation you can choose one of these strings and delete its rightmost character.
 
-def findMinimumOperations():
-    s1 = "abc"
-    s2 = "ab"
-    s3 = "abb"
+def findMinimumOperations(s1,s2,s3):
+
 
     a = len(s1)
     b = len(s2)
@@ -21,4 +19,5 @@ def findMinimumOperations():
     return a + b + c - (3 * d)
 
 
-findMinimumOperations()
+output = findMinimumOperations("ab","abbccccc", "abc")
+print(output)
