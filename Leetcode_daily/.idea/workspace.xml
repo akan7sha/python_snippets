@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97dd4404-289f-42dc-9f90-c285814cec66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day2day/Number_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day2day/index of string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode_daily.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_2788.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem_2937.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2day/Number_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day2day/Number_problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2day/index of string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day2day/index of string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

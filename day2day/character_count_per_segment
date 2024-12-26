@@ -1,0 +1,2 @@
+temp_string = "aabbbaccaa"
+print(temp_string)
