@@ -189,7 +189,10 @@ class EightPuzzleGame:
             messagebox.showerror("Error", "No solution found!")
 
     def a_star_search(self, initial_state, goal_state):
-        frontier = []
+        git
+        remote
+        show
+        origin        frontier = []
         heapq.heappush(frontier, (self.calculate_heuristic(initial_state), 0, initial_state))
 
         visited = set()
@@ -202,7 +205,6 @@ class EightPuzzleGame:
 
             if current.board == goal_state.board:
                 return self.reconstruct_path(current)
-
             visited.add(current.hash)
 
             for neighbor in current.get_neighbors():
